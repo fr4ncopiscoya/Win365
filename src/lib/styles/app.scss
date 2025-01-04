@@ -22,6 +22,9 @@ $bgi-signup: "https://wallpapers.com/images/featured/horse-racing-ghym6kfaky4hep
 //Notas
 //El mixxin del notifier, no es igual al de del modal, el modal cuando se llga al body se desliga de este y toma las clases del padre
 //en cambio el notifier , todas la estructura nunca varia mas que para cambiar el color y el icono, por lo que seria al contrario del modal
+body{
+    background-color: #080E07;
+}
 #{$body}{   
     @include notifier("top-end",#008939,#d9534f,#ffd245);
     //@extend "EL TIPO DE LOGIN QUE TENDRA QUI SE AGREGA"
@@ -31,7 +34,7 @@ $bgi-signup: "https://wallpapers.com/images/featured/horse-racing-ghym6kfaky4hep
         @include structureHeader('babieca',6.5rem,6.5rem);
         &__menu{
             @include dropdown-menu("normal");
-            background: #FFDF1B !important;
+            background: #1D7329 !important;
         }
         &__balance{
             display: grid;
@@ -422,7 +425,7 @@ $bgi-signup: "https://wallpapers.com/images/featured/horse-racing-ghym6kfaky4hep
             position: absolute;
             bottom: 1rem;
             width: auto;
-            background-color: #00b07d;
+            background-color: #1D7329;
             font-weight: 700;
             padding: 0.5rem;
             border-radius: $borderR-btn;

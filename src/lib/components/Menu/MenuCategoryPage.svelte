@@ -38,7 +38,7 @@
 
 <div class="container {modfBtn== true?'c-btn':''}" id="navbar-container">
   <button class="li-game {active_view=='home'?'u-category-select':''}" on:click={  ()=>onCategoryChange("home") }>
-    <img src="https://assets.apiusoft.com/Bets365/home.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/home.png" alt="">
   </button>
  
     
@@ -47,42 +47,42 @@
 
       {#if conf.country == "PE"}
       <button  on:click={() => selectOption({gameid: conf.CLIENT_CODE == 'BPEN' ? "betsw3_2024": "8042022_digitain"})} class="li-game {active_view=='sportbook'?'u-category-select':''}" >
-        <img src="https://assets.apiusoft.com/Bets365/sportbook.png" alt="">
+        <img src="https://assets.apiusoft.com/Win365/icons/sportbook.png" alt="">
       </button>
       <button on:click={() => selectOption2({gameid:conf.CLIENT_CODE == 'BPEN' ? "betsw3_2024": "8042022_digitain"})}  class="li-game in-d {active_view=='sportbooklive'?'u-category-select':''}">
-          <img src="https://assets.apiusoft.com/Bets365/sportbooklive.png" alt="">
+          <img src="https://assets.apiusoft.com/Win365/icons/sportbooklive.png" alt="">
         </button>
         {:else}
         <button on:click={() => selectOption2({gameid:conf.CLIENT_CODE == 'BPEN' ? "betsw3_2024": "8042022_digitain"})}  class="li-game in-d {active_view=='sportbooklive'?'u-category-select':''}">
-          <img src="https://assets.apiusoft.com/Bets365/sportbook.png" alt="">
+          <img src="https://assets.apiusoft.com/Win365/icons/sportbook.png" alt="">
         </button>
         {/if}
     <!-- {/if} -->
 
   <button on:click={onCategoryChange("horses")} class="li-game {active_view=='horses'?'u-category-select':''}"> 
-    <img src="https://assets.apiusoft.com/Bets365/horses.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/horses.png" alt="">
   </button>
   <!--button on:click={onCategoryChange("esports")} class="li-game {active_view=='esports'?'u-category-select':''}"> 
     <img class="u-menubar-icon" src="{conf.ASSETS}/golden/Esports.svg" alt="">
     <span  class="u-span-li-games u-span-sport" >E-Sports</span> 
   </button-->
   <button on:click={onCategoryChange("slot")} class="li-game {active_view=='slot'?'u-category-select':''}"> 
-    <img src="https://assets.apiusoft.com/Bets365/slot.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/slot.png" alt="">
   </button>
   <button on:click={onCategoryChange("slotlive")} class="li-game {active_view=='slotlive'?'u-category-select':''}">
-    <img src="https://assets.apiusoft.com/Bets365/slotlive.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/slotlive.png" alt="">
   </button>
   <button on:click={onCategoryChange("crash")} class= "li-game {active_view=='crash'?'u-category-select':''}">
-    <img src="https://assets.apiusoft.com/Bets365/crash.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/crash.png" alt="">
   </button>
   <button on:click={onCategoryChange("scratch")} class="li-game {active_view=='scratch'?'u-category-select':''}">
-    <img src="https://assets.apiusoft.com/Bets365/scratch.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/scratch.png" alt="">
   </button>
   <button on:click={onCategoryChange("virtual")} class="li-game {active_view=='virtual'?'u-category-select':''}">
-    <img src="https://assets.apiusoft.com/Bets365/virtual.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/virtual.png" alt="">
   </button>
   <button on:click={onCategoryChange("providers")} class="li-game {active_view=='providers'?'u-category-select':''}"> 
-    <img src="https://assets.apiusoft.com/Bets365/providers.png" alt="">
+    <img src="https://assets.apiusoft.com/Win365/icons/providers.png" alt="">
   </button>
   <!-- 
  

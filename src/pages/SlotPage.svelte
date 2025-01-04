@@ -43,8 +43,8 @@
   let banners = [
     {
       id: 1,
-      src: `${conf.ASSETS}/Coliseosport/bn_m_slot.png`,
-      srcmb: `${conf.ASSETS}/Coliseosport/bn_w_slot.png`,
+      src: `${conf.ASSETS}/Win365/banners/w_slot.png`,
+      srcmb: `${conf.ASSETS}/Win365/banners/mb_slot.png`,
     },
   ];
   let brands = [{ name: "", total: "" }];

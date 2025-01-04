@@ -24,7 +24,7 @@
   let category = 'crash'
   const conf = Configuration.getConfiguration();
   let banners = [
-    { id: 1, src: `${conf.ASSETS}/Coliseosport/bn_w_crash.png`, srcmb: `${conf.ASSETS}/Coliseosport/bn_m_crash.png`}
+    { id: 1, src: `${conf.ASSETS}/Win365/banners/w_crash.png`, srcmb: `${conf.ASSETS}/Win365/banners/mb_crash.png`}
   ];
   
 

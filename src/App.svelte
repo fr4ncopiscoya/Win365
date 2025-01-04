@@ -87,7 +87,7 @@
   let sportbookOptions;
 
   let screenGamesOpen = false;
-  let platform = "Bets365";
+  let platform = "Win365";
 
   function resizeIframe(node) {
     let navbarHeight;

@@ -26,7 +26,7 @@
   let category = 'slot_live'
   let sectionActive=""
   let brands=[{name:"Proveedores",total:""}];
-  let banners = [{ id: 1, src: `${conf.ASSETS}/Coliseosport/bn_w_slotlive.png`, srcmb: `${conf.ASSETS}/Coliseosport/bn_m_slotlive.png`},];
+  let banners = [{ id: 1, src: `${conf.ASSETS}/Win365/banners/w_slotlive.png`, srcmb: `${conf.ASSETS}/Win365/banners/mb_slotlive.png`},];
   let baccGames=[]
   let rouletteGames=[]
   let blackjackGames=[]

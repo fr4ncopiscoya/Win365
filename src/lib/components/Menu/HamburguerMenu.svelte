@@ -241,7 +241,7 @@ const subdomain = url.split('.').slice(0, -2).join('.');
      width: 100vw;
      min-height: auto;
      height: auto;
-     background: #178b66;
+     background: #1D7329;
      z-index: 100;
    }
    
@@ -269,7 +269,7 @@ const subdomain = url.split('.').slice(0, -2).join('.');
      justify-content: flex-start;
      width: 100%;
      gap: 0.5rem;
-     background: #178b66;
+     background: #1D7329;
      border: none;
      color: white;
      height: 2rem;
@@ -300,7 +300,7 @@ const subdomain = url.split('.').slice(0, -2).join('.');
      margin-left: -1rem;
      margin-top: 0.8rem;
      width: 16rem;
-     background: #178b66;
+     background: #1D7329;
      z-index: 100;
      height: auto ;
    }
@@ -335,7 +335,7 @@ const subdomain = url.split('.').slice(0, -2).join('.');
      justify-content: flex-start;
      width: 95%;
      gap: 0.5rem;
-     background: #178b66;
+     background: #1D7329;
      border: none;
      color: white;
      height: 2rem;

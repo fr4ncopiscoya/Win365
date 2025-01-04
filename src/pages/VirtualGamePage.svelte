@@ -22,7 +22,7 @@
   let sectionActive="";
   let category = 'virtual'
   let banners = [
-    { id: 1, src: `${conf.ASSETS}/coliseosport/banner_vituales2.png`, srcmb: `${conf.ASSETS}/coliseosport/banner_virtual_mb.png`},
+    { id: 1, src: `${conf.ASSETS}/Win365/banners/w_virtual.png`, srcmb: `${conf.ASSETS}/Win365/banners/mb_virtual.png`},
    
   ];
   

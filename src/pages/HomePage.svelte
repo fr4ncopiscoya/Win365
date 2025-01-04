@@ -111,7 +111,7 @@ let virtual3 = {  "id": 34623,  "gameid": "10206",  "provider": "gr",  "name": "
 let virtual4 = {  "id": 34707,  "gameid": "10193",  "provider": "gr",  "name": "Spin2Win (Am) - ondemand",  "description": "",  "type": "VIRT",  "urlimage": "img/xpressgaming/10286.jpg",  "mode": "wb",  "brand": "GoldenRace",  "status": 1,  "position": 3,  "category": "virtual",  "reg_date": "2020-10-27T20:49:37.000+00:00",  "currency": null,  "isNew": 0,  "min_bet": 0,  "max_bet": 0,  "jackpot": 0};
 let virtual5 = {  "id": 34640,  "gameid": "10163",  "provider": "gr",  "name": "World Cup",  "description": "",  "type": "VIRT",  "urlimage": "img/xpressgaming/10163.jpg",  "mode": "wb",  "brand": "GoldenRace",  "status": 1,  "position": 3,  "category": "virtual",  "reg_date": null,  "currency": null,  "isNew": 0,  "min_bet": 0,  "max_bet": 0,  "jackpot": 0};
 
-let platform = "Bets365";
+let platform = "Win365";
 </script>
 
 <div class="home-page">

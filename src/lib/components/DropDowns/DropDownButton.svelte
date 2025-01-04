@@ -146,7 +146,7 @@
     border-radius: 0.5rem;
     height: 2.8rem;
     background: #353940;
-    border: 1px solid #01e7a4;
+    border: 1px solid #080E07;
     }
 
     /* Dropdown Content (Hidden by Default) */
@@ -255,7 +255,7 @@
     /* Style The Dropdown Button */
     .dropbtn {
       background: #353940;
-    border: 1px solid #01e7a4;
+    border: 1px solid #1D7329;
       color: white;
       padding: 5px;
       font-size: 16px;

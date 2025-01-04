@@ -24,7 +24,7 @@
   let otherGames = [];
   let category = 'scratch'
   let banners = [
-    { id: 1, src: `${conf.ASSETS}/coliseosport/banner_raspadas2.png`, srcmb: `${conf.ASSETS}/coliseosport/banner_raspa_mb.png`},
+    { id: 1, src: `${conf.ASSETS}/Win365/banners/w_scratch.png`, srcmb: `${conf.ASSETS}/Win365/banners/mb_scratch.png`},
 
     //{ id: 2, src: `https://cdn-plat.apidigi.com/plat/prd/Img/partners/1115/IMG/ESPECIALES/slide-esport4-desktop.jpg`,srcmb: `https://cdn-plat.apidigi.com/plat/prd/Img/partners/1115/IMG/ESPECIALES/slide-esport4-desktop.jpg`},
     //{ id: 3, src: `${conf.ASSETS}/latinosport21/Deportes.png`,srcmb: `${conf.ASSETS}/latinosport21/Deportes.png`}

@@ -63,7 +63,7 @@
     border: none;
     border-radius: 0.2rem;
     cursor: pointer;
-    border: 1px solid #01e7a4;
+    border: 1px solid #1D7329;
     }
   }
   @media only screen and (min-width: 1024px) {
@@ -93,7 +93,7 @@
       width: 100%;
       background: #353940;
 
-    border: 1px solid #01e7a4;
+    border: 1px solid #1D7329;
     }
     svg{
       padding: 0 0.2rem;

@@ -238,7 +238,7 @@
 }
 .play-top {
     text-transform: uppercase;
-    background: #00b17e;
+    background: #1D7329;
     padding: 0.5rem 1rem;
     border-radius: 0 0 5px 5px;
     cursor: pointer;
@@ -417,7 +417,7 @@
       padding-bottom: 2rem;
     }
     .btn-show {
-      background: #00b07d;
+      background: #1D7329;
       position: relative;
     z-index: 1;
       align-items: center;
@@ -541,7 +541,7 @@
       padding-bottom: 2rem;
     }
     .btn-show {
-      background: #00b07d;
+      background: #1D7329;
       align-items: center;
       justify-content: center;
       color: #fff;
@@ -707,7 +707,7 @@
       padding-bottom: 2rem;
     }
     .btn-show {
-      background: #00b07d;
+      background: #1D7329;
       position: relative;
     z-index: 1;
       color: #fff;

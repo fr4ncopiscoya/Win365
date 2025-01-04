@@ -54,7 +54,7 @@
 .u-carousel::after{
   content: "";
     position: absolute;
-    box-shadow: 0px 40px 90px 120px #282828;
+    box-shadow: 0px 40px 90px 120px #080E07;
     height: 0;
     width: 100%;
     bottom: 62px;
@@ -210,7 +210,7 @@ input:checked + .slide-container .nav label { display: block; }
      padding: 0;
    }
    .u-carousel::after{
-     box-shadow: 0 70px 40px 50px #2a1639;
+     box-shadow: 0 70px 40px 50px #080E07;
    }
   }
 

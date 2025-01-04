@@ -180,7 +180,7 @@ let depositModalOpen = false;
 export let signupModalOpen;
 let withdrawalModalOpen = false;
 export let modalOpened;
-let platform = "Bets365";
+let platform = "Win365";
 let notify = {};
  //Deposit Modal
 export let amountsFav = [5000, 10000, 30000, 50000];
@@ -389,10 +389,8 @@ let showWithdrawalModalSMS = false;
     </HamburguerMenu>
   
       <button class="content-logo" on:click={() => (active_view = "home")}>
-        <img class="smll_lg logo" src="{conf.ASSETS}/Bets365/logo.png" alt="" />
-        <img class="tall_lg logo" src="{conf.ASSETS}/Bets365/logo.png" alt="" />
-        
-          
+        <img class="smll_lg logo" src="{conf.ASSETS}/Win365/logo.png" alt="" />
+        <img class="tall_lg logo" src="{conf.ASSETS}/Win365/logo.png" alt="" />
       </button>
       <div style="margin-right: 2rem;" >
         <!-- <svg width="1.25rem" fill="#fff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M32 271.692v192c0 17.664 14.368 32 32 32h160v-224H32zM480 143.692H378.752c7.264-4.96 13.504-9.888 17.856-14.304 25.824-25.952 25.824-68.192 0-94.144-25.088-25.28-68.8-25.216-93.856 0-13.888 13.92-50.688 70.592-45.6 108.448h-2.304c5.056-37.856-31.744-94.528-45.6-108.448-25.088-25.216-68.8-25.216-93.856 0-25.792 25.952-25.792 68.192-.032 94.144 4.384 4.416 10.624 9.344 17.888 14.304H32c-17.632 0-32 14.368-32 32v48c0 8.832 7.168 16 16 16h208v-64h64v64h208c8.832 0 16-7.168 16-16v-48c0-17.632-14.336-32-32-32zm-257.888-1.056s-1.344 1.056-5.92 1.056c-22.112 0-64.32-22.976-78.112-36.864-13.408-13.504-13.408-35.52 0-49.024 6.496-6.528 15.104-10.112 24.256-10.112 9.12 0 17.728 3.584 24.224 10.112 21.568 21.696 43.008 77.12 35.552 84.832zm73.664 1.056c-4.544 0-5.888-1.024-5.888-1.056-7.456-7.712 13.984-63.136 35.552-84.832 12.896-13.024 35.456-13.088 48.48 0 13.44 13.504 13.44 35.52 0 49.024-13.792 13.888-56 36.864-78.144 36.864zM288 271.692v224h160c17.664 0 32-14.336 32-32v-192H288z"></path></svg>
@@ -638,10 +636,10 @@ let showWithdrawalModalSMS = false;
   /*.user-header.virtual{
     position: fixed;
     z-index: 101;
-    top: 0;
+    top: 0;f
   }*/
   .user-header {
-    background-color: #00b07d;
+    background: #000;
   }
   @media only screen and (max-width: 1022px) {
 
